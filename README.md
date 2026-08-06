@@ -2,18 +2,25 @@
   <img src="images/banner.png" alt="Virtualized Network Scenario 1 Banner" width="100%">
 </p>
 
-# 🌐 Virtualized Network Scenario 1
+<h1 align="center">🌐 Virtualized Network Scenario 1</h1>
 
-> Virtualized enterprise network implementing an Autonomous System (AS) with RIPv2, DNS, and HTTP services.
+<p align="center">
+Virtualized enterprise network implementing an Autonomous System (AS) with <b>RIPv2</b>, <b>DNS</b>, and <b>HTTP</b> services.
+</p>
 
 <p align="center">
 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-Server-E95420?logo=ubuntu&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-Packet%20Tracer-1BA0D7?logo=cisco&logoColor=white)
-![FRRouting](https://img.shields.io/badge/FRRouting-RIPv2-blue)
-![BIND9](https://img.shields.io/badge/BIND9-DNS-success)
-![Apache2](https://img.shields.io/badge/Apache2-HTTP-red)
+<img src="https://img.shields.io/badge/Ubuntu-Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+
+<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white">
+
+<img src="https://img.shields.io/badge/Cisco-Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white">
+
+<img src="https://img.shields.io/badge/FRRouting-RIPv2-blue?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/BIND9-DNS-success?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Apache2-HTTP-red?style=for-the-badge">
 
 </p>
 
@@ -21,18 +28,20 @@
 
 ## 📖 About
 
-Virtualized network laboratory developed for the **Systems Communication and Networks** course, featuring **RIPv2 routing**, **DNS**, and **HTTP** services using Linux virtual machines.
+A university networking project focused on building a virtualized Autonomous System using Ubuntu Server, VirtualBox, and Cisco Packet Tracer.
 
 ---
 
-## 🔗 Quick Access
+## 🚀 Quick Access
 
-- 🗺️ **Network Topology** → [`images/`](images/)
-- 📄 **Documentation** → [`docs/`](docs/)
-- 🌐 **Packet Tracer Project** → [`packet-tracer/`](packet-tracer/)
-- 🖥️ **VirtualBox Files** → [`virtualbox/`](virtualbox/)
-- ⚙️ **Configurations** → [`configs/`](configs/)
-- 🏆 **Certificate** → [`certificates/`](certificates/)
+| Resource | Description |
+|----------|-------------|
+| 📄 **[Documentation](docs/)** | Technical documentation and ABNT report |
+| 🖼️ **[Images](images/)** | Topology, screenshots and validation tests |
+| 🌐 **[Packet Tracer](packet-tracer/)** | Cisco Packet Tracer project |
+| 🖥️ **[VirtualBox](virtualbox/)** | Virtual machine files |
+| ⚙️ **[Configurations](configs/)** | FRRouting, Netplan, BIND9 and Apache2 configurations |
+| 🏆 **[Certificate](certificates/)** | Network Analyst Certificate (160h) |
 
 ---
 
@@ -48,6 +57,16 @@ Virtualized network laboratory developed for the **Systems Communication and Net
 
 ---
 
+## 🗺️ Network Topology
+
+<p align="center">
+  <img src="images/topology.png" width="90%" alt="Network Topology">
+</p>
+
+---
+
 ## 👨‍💻 Author
 
 **Gustavo Barreto**
+
+Software Engineering Student • Cybersecurity & Networking
