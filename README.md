@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="images/banner.png" alt="Virtualized Network Scenario 1 Banner" width="100%">
+</p>
 
 <h1 align="center">🌐 Virtualized Network Scenario 1</h1>
 
