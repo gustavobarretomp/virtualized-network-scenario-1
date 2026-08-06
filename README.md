@@ -1,81 +1,41 @@
 <p align="center">
-  <img src="images/banner.png" alt="Virtualized Network Scenario 1 Banner" width="100%">
+  <img src="images/banner.png" alt="Virtualized Network Scenario 1 Banner">
 </p>
 
-<h1 align="center">🌐 Virtualized Network Scenario 1</h1>
+# 🌐 Virtualized Network Scenario 1
 
-<p align="center">
-  <strong>Autonomous System Laboratory with RIPv2, DNS and HTTP Services</strong>
-</p>
+> Enterprise network virtualization laboratory implementing an Autonomous System with RIPv2, DNS and HTTP services.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1500&color=0EA5E9&center=true&vCenter=true&width=800&lines=Enterprise+Network+Laboratory;Dynamic+Routing+with+RIPv2;Ubuntu+Server+%2B+VirtualBox;Cisco+Packet+Tracer+Simulation" />
-</p>
+![Ubuntu](https://img.shields.io/badge/Ubuntu-Server-E95420?logo=ubuntu&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white)
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco-Packet%20Tracer-1BA0D7?logo=cisco&logoColor=white)
+![FRRouting](https://img.shields.io/badge/FRRouting-RIPv2-blue)
+![BIND9](https://img.shields.io/badge/BIND9-DNS-success)
+![Apache2](https://img.shields.io/badge/Apache2-HTTP-red)
 
-<p align="center">
+## 📖 About
 
-<img src="https://img.shields.io/badge/Cisco-Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+This project simulates a virtualized enterprise network using **Ubuntu Server**, **VirtualBox**, and **Cisco Packet Tracer**.
 
-<img src="https://img.shields.io/badge/Ubuntu-Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624"/>
-
-<img src="https://img.shields.io/badge/FRRouting-RIPv2-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/BIND9-DNS-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Apache2-HTTP-red?style=for-the-badge"/>
-
-</p>
-
----
-
-# 📖 Overview
-
-This project implements a **virtualized Autonomous System (AS)** using **Ubuntu Server**, **VirtualBox**, and **Cisco Packet Tracer**.
-
-The laboratory demonstrates the deployment of **RIPv2 dynamic routing**, **DNS name resolution**, and **HTTP services** across multiple interconnected networks, simulating a small enterprise infrastructure.
+The infrastructure implements dynamic routing with **RIPv2**, DNS services using **BIND9**, and web servers using **Apache2**, reproducing a small Autonomous System (AS).
 
 Developed as a university project for the **Systems Communication and Networks** course.
 
 ---
 
-# 🗺️ Network Topology
+## 🛠 Technologies
 
-> *(Topology diagram will be added here.)*
-
----
-
-# ✨ Features
-
-- 🌐 Autonomous System (AS)
-- 🔀 Dynamic Routing with RIPv2
-- 🌍 DNS Service using BIND9
-- 🌐 HTTP Servers with Apache2
-- 🖥️ Ubuntu Server Virtual Machines
-- 📡 Cisco Packet Tracer Simulation
-- ⚙️ Network Configuration with Netplan
-- 📄 Technical Documentation
+- Ubuntu Server
+- VirtualBox
+- Cisco Packet Tracer
+- FRRouting (RIPv2)
+- BIND9
+- Apache2
+- Netplan
 
 ---
 
-# 🛠️ Technologies
-
-| Technology | Purpose |
-|------------|---------|
-| Cisco Packet Tracer | Network Simulation |
-| VirtualBox | Virtualization |
-| Ubuntu Server | Operating System |
-| FRRouting | Dynamic Routing |
-| Netplan | Network Configuration |
-| BIND9 | DNS Server |
-| Apache2 | HTTP Server |
-
----
-
-# 📂 Repository Structure
+## 📂 Repository Structure
 
 ```text
 .
@@ -90,20 +50,26 @@ Developed as a university project for the **Systems Communication and Networks**
 
 ---
 
-# 📚 Documentation
+## 🚀 Getting Started
 
-- 📄 ABNT Report
-- 🌐 Cisco Packet Tracer Project
-- 🖥️ VirtualBox Implementation
-- ⚙️ Network Configurations
-- 📸 Validation Tests
+1. Clone the repository.
+2. Import the Cisco Packet Tracer project.
+3. Open the VirtualBox virtual machines.
+4. Follow the documentation available in the `docs/` folder.
 
 ---
 
-# 👨‍💻 Author
+## 📄 Documentation
+
+- Network topology
+- VM configurations
+- Validation tests
+- ABNT report
+
+---
+
+## 👨‍💻 Author
 
 **Gustavo Barreto**
 
 Software Engineering Student
-
-Cybersecurity & Networking Enthusiast
