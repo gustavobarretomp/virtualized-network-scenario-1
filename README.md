@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="images/banner.png" alt="Virtualized Network Scenario 1 Banner">
+  <img src="images/banner.png" alt="Virtualized Network Scenario 1 Banner" width="100%">
 </p>
 
 # 🌐 Virtualized Network Scenario 1
 
-> Enterprise network virtualization laboratory implementing an Autonomous System with RIPv2, DNS and HTTP services.
+> Enterprise network virtualization implementing an Autonomous System (AS) with RIPv2, DNS and HTTP services.
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-Server-E95420?logo=ubuntu&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white)
@@ -15,15 +15,21 @@
 
 ## 📖 About
 
-This project simulates a virtualized enterprise network using **Ubuntu Server**, **VirtualBox**, and **Cisco Packet Tracer**.
+This project implements a virtualized enterprise network using **Ubuntu Server**, **VirtualBox**, and **Cisco Packet Tracer**. The infrastructure includes **RIPv2 dynamic routing**, **DNS servers**, and **HTTP services**, simulating a small Autonomous System (AS).
 
-The infrastructure implements dynamic routing with **RIPv2**, DNS services using **BIND9**, and web servers using **Apache2**, reproducing a small Autonomous System (AS).
-
-Developed as a university project for the **Systems Communication and Networks** course.
+> 📚 Developed as a university project for the **Systems Communication and Networks** course.
 
 ---
 
-## 🛠 Technologies
+## 🖼️ Network Topology
+
+<p align="center">
+  <img src="images/topology.png" alt="Network Topology" width="90%">
+</p>
+
+---
+
+## 🛠️ Technologies
 
 - Ubuntu Server
 - VirtualBox
@@ -35,7 +41,7 @@ Developed as a university project for the **Systems Communication and Networks**
 
 ---
 
-## 📂 Repository Structure
+## 📂 Project Structure
 
 ```text
 .
@@ -50,21 +56,14 @@ Developed as a university project for the **Systems Communication and Networks**
 
 ---
 
-## 🚀 Getting Started
-
-1. Clone the repository.
-2. Import the Cisco Packet Tracer project.
-3. Open the VirtualBox virtual machines.
-4. Follow the documentation available in the `docs/` folder.
-
----
-
 ## 📄 Documentation
 
-- Network topology
-- VM configurations
-- Validation tests
-- ABNT report
+Additional documentation is available in the **docs/** directory, including:
+
+- Implementation Guide
+- ABNT Report
+- Network Configuration
+- Validation Tests
 
 ---
 
@@ -72,4 +71,4 @@ Developed as a university project for the **Systems Communication and Networks**
 
 **Gustavo Barreto**
 
-Software Engineering Student
+Software Engineering Student • Cybersecurity & Networking
