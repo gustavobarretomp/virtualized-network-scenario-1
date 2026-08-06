@@ -87,3 +87,69 @@ The environment was designed to simulate an enterprise network infrastructure, i
 Developed as part of the **Systems Communication and Networks** course.
 
 ---
+---
+
+# 🗺️ Network Topology
+
+> *(Professional network diagram coming soon.)*
+  ---
+
+# ✨ Project Highlights
+
+This project was designed to simulate a real enterprise network by combining virtualization, dynamic routing, and essential network services.
+
+<div align="center">
+
+| 🖥️ Virtualization | 🌐 Networking | 🔧 Services | 📚 Documentation |
+|:-----------------:|:-------------:|:-----------:|:----------------:|
+| VirtualBox | RIPv2 | BIND9 DNS | Technical Documentation |
+| Ubuntu Server | Cisco Packet Tracer | Apache2 HTTP | ABNT Report |
+| 13 Virtual Machines | Autonomous System | Netplan | Validation Tests |
+
+</div>
+
+---
+
+# 📊 Project Statistics
+
+<div align="center">
+
+| Component | Quantity |
+|-----------|:--------:|
+| 🖥️ Virtual Machines | **13** |
+| 🌐 Routers | **5** |
+| 🖧 LAN Networks | **5** |
+| 🌍 HTTP Servers | **3** |
+| 📡 DNS Servers | **2** |
+| 💻 Client Machines | **3** |
+| 🔀 Routing Protocol | **RIPv2** |
+| 📄 Documentation | **ABNT + Technical Guide** |
+
+</div>
+
+---
+
+# 🛠️ Technologies
+
+<div align="center">
+
+| Technology | Purpose |
+|------------|---------|
+| Cisco Packet Tracer | Network Simulation |
+| VirtualBox | Infrastructure Virtualization |
+| Ubuntu Server | Operating System |
+| FRRouting | Dynamic Routing (RIPv2) |
+| Netplan | Network Configuration |
+| BIND9 | DNS Service |
+| Apache2 | HTTP Service |
+| Git & GitHub | Version Control |
+
+</div>
+
+---
+
+# 🏗️ Network Architecture
+
+> **Professional network topology diagram coming soon.**
+
+This laboratory reproduces an Autonomous System composed of multiple interconnected routers, client networks, DNS infrastructure, and HTTP services. The environment was implemented both in Cisco Packet Tracer and in a fully virtualized Ubuntu Server infrastructure.
