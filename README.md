@@ -34,6 +34,42 @@
   <img src="https://img.shields.io/badge/Apache2-D22128?style=for-the-badge&logo=apache&logoColor=white">
 
 </p>
+<table align="center">
+<tr>
+<td align="center">
+
+## 🖥️ Virtual Machines
+
+**13**
+
+</td>
+
+<td align="center">
+
+## 🌐 Routers
+
+**5**
+
+</td>
+
+<td align="center">
+
+## 📡 LANs
+
+**5**
+
+</td>
+
+<td align="center">
+
+## 🌍 Services
+
+**DNS + HTTP**
+
+</td>
+
+</tr>
+</table>
 
 ---
 
