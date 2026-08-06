@@ -56,17 +56,3 @@ A university networking project focused on building a virtualized Autonomous Sys
 - Netplan
 
 ---
-
-## 🗺️ Network Topology
-
-<p align="center">
-  <img src="images/topology.png" width="90%" alt="Network Topology">
-</p>
-
----
-
-## 👨‍💻 Author
-
-**Gustavo Barreto**
-
-Software Engineering Student • Cybersecurity & Networking
