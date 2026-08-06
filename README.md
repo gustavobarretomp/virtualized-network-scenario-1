@@ -1,6 +1,11 @@
 <p align="center">
   <img src="images/banner.png" alt="Virtualized Network Scenario 1 Banner" width="100%">
 </p>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=0EA5E9&center=true&vCenter=true&width=850&lines=Virtualized+Network+Laboratory;Autonomous+System+with+RIPv2;DNS+and+HTTP+Services;Built+with+Cisco+Packet+Tracer+%2B+Ubuntu+Server;Powered+by+FRRouting%2C+BIND9+and+Apache2" alt="Typing SVG" />
+  </a>
+</p>
 
 <h1 align="center">🌐 Virtualized Network Scenario 1</h1>
 
