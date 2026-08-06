@@ -1,155 +1,109 @@
 <p align="center">
   <img src="images/banner.png" alt="Virtualized Network Scenario 1 Banner" width="100%">
 </p>
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=0EA5E9&center=true&vCenter=true&width=850&lines=Virtualized+Network+Laboratory;Autonomous+System+with+RIPv2;DNS+and+HTTP+Services;Built+with+Cisco+Packet+Tracer+%2B+Ubuntu+Server;Powered+by+FRRouting%2C+BIND9+and+Apache2" alt="Typing SVG" />
-  </a>
-</p>
 
 <h1 align="center">🌐 Virtualized Network Scenario 1</h1>
 
 <p align="center">
-  <strong>Autonomous System Laboratory</strong>
+  <strong>Autonomous System Laboratory with RIPv2, DNS and HTTP Services</strong>
 </p>
 
 <p align="center">
-  Dynamic Routing • RIPv2 • VirtualBox • Ubuntu Server • FRRouting • BIND9 • Apache2
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1500&color=0EA5E9&center=true&vCenter=true&width=800&lines=Enterprise+Network+Laboratory;Dynamic+Routing+with+RIPv2;Ubuntu+Server+%2B+VirtualBox;Cisco+Packet+Tracer+Simulation" />
 </p>
 
 <p align="center">
 
-  <img src="https://img.shields.io/badge/Cisco-Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white">
+<img src="https://img.shields.io/badge/Cisco-Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 
-  <img src="https://img.shields.io/badge/Ubuntu-Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+<img src="https://img.shields.io/badge/Ubuntu-Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 
-  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white">
+<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
 
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624">
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624"/>
 
-  <img src="https://img.shields.io/badge/FRRouting-00599C?style=for-the-badge">
+<img src="https://img.shields.io/badge/FRRouting-RIPv2-blue?style=for-the-badge"/>
 
-  <img src="https://img.shields.io/badge/BIND9-DNS-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/BIND9-DNS-success?style=for-the-badge"/>
 
-  <img src="https://img.shields.io/badge/Apache2-D22128?style=for-the-badge&logo=apache&logoColor=white">
+<img src="https://img.shields.io/badge/Apache2-HTTP-red?style=for-the-badge"/>
 
 </p>
 
-
-
-
-
-<table align="center">
-<tr>
-<td align="center">
-
-## 🖥️ Virtual Machines
-
-**13**
-
-</td>
-
-<td align="center">
-
-## 🌐 Routers
-
-**5**
-
-</td>
-
-<td align="center">
-
-## 📡 LANs
-
-**5**
-
-</td>
-
-<td align="center">
-
-## 🌍 Services
-
-**DNS + HTTP**
-
-</td>
-
-</tr>
-</table>
-
 ---
 
-## 📖 Overview
+# 📖 Overview
 
-This project demonstrates the implementation of a **virtualized Autonomous System (AS)** using Linux virtual machines and Cisco Packet Tracer.
+This project implements a **virtualized Autonomous System (AS)** using **Ubuntu Server**, **VirtualBox**, and **Cisco Packet Tracer**.
 
-The environment was designed to simulate an enterprise network infrastructure, integrating **dynamic routing (RIPv2)**, **DNS name resolution**, **HTTP services**, and **IP addressing** in a fully virtualized laboratory.
+The laboratory demonstrates the deployment of **RIPv2 dynamic routing**, **DNS name resolution**, and **HTTP services** across multiple interconnected networks, simulating a small enterprise infrastructure.
 
-Developed as part of the **Systems Communication and Networks** course.
+Developed as a university project for the **Systems Communication and Networks** course.
 
----
 ---
 
 # 🗺️ Network Topology
 
-> *(Professional network diagram coming soon.)*
-  ---
-
-# ✨ Project Highlights
-
-This project was designed to simulate a real enterprise network by combining virtualization, dynamic routing, and essential network services.
-
-<div align="center">
-
-| 🖥️ Virtualization | 🌐 Networking | 🔧 Services | 📚 Documentation |
-|:-----------------:|:-------------:|:-----------:|:----------------:|
-| VirtualBox | RIPv2 | BIND9 DNS | Technical Documentation |
-| Ubuntu Server | Cisco Packet Tracer | Apache2 HTTP | ABNT Report |
-| 13 Virtual Machines | Autonomous System | Netplan | Validation Tests |
-
-</div>
+> *(Topology diagram will be added here.)*
 
 ---
 
-# 📊 Project Statistics
+# ✨ Features
 
-<div align="center">
-
-| Component | Quantity |
-|-----------|:--------:|
-| 🖥️ Virtual Machines | **13** |
-| 🌐 Routers | **5** |
-| 🖧 LAN Networks | **5** |
-| 🌍 HTTP Servers | **3** |
-| 📡 DNS Servers | **2** |
-| 💻 Client Machines | **3** |
-| 🔀 Routing Protocol | **RIPv2** |
-| 📄 Documentation | **ABNT + Technical Guide** |
-
-</div>
+- 🌐 Autonomous System (AS)
+- 🔀 Dynamic Routing with RIPv2
+- 🌍 DNS Service using BIND9
+- 🌐 HTTP Servers with Apache2
+- 🖥️ Ubuntu Server Virtual Machines
+- 📡 Cisco Packet Tracer Simulation
+- ⚙️ Network Configuration with Netplan
+- 📄 Technical Documentation
 
 ---
 
 # 🛠️ Technologies
 
-<div align="center">
-
 | Technology | Purpose |
 |------------|---------|
 | Cisco Packet Tracer | Network Simulation |
-| VirtualBox | Infrastructure Virtualization |
+| VirtualBox | Virtualization |
 | Ubuntu Server | Operating System |
-| FRRouting | Dynamic Routing (RIPv2) |
+| FRRouting | Dynamic Routing |
 | Netplan | Network Configuration |
-| BIND9 | DNS Service |
-| Apache2 | HTTP Service |
-| Git & GitHub | Version Control |
-
-</div>
+| BIND9 | DNS Server |
+| Apache2 | HTTP Server |
 
 ---
 
-# 🏗️ Network Architecture
+# 📂 Repository Structure
 
-> **Professional network topology diagram coming soon.**
+```text
+.
+├── configs/
+├── docs/
+├── images/
+├── packet-tracer/
+├── virtualbox/
+├── certificates/
+└── README.md
+```
 
-This laboratory reproduces an Autonomous System composed of multiple interconnected routers, client networks, DNS infrastructure, and HTTP services. The environment was implemented both in Cisco Packet Tracer and in a fully virtualized Ubuntu Server infrastructure.
+---
+
+# 📚 Documentation
+
+- 📄 ABNT Report
+- 🌐 Cisco Packet Tracer Project
+- 🖥️ VirtualBox Implementation
+- ⚙️ Network Configurations
+- 📸 Validation Tests
+
+---
+
+# 👨‍💻 Author
+
+**Gustavo Barreto**
+
+Software Engineering Student
+
+Cybersecurity & Networking Enthusiast
