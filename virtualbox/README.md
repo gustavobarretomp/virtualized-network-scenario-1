@@ -86,7 +86,7 @@ O DNS1, localizado no endereço `192.168.1.5`, resolveu corretamente:
 - `servidor2.rede.local` para `192.168.2.10`.
 
 <p align="center">
-  <img src="servers/dns1-nslookup-servidor1-e-2-ajustado.png" alt="Teste de resolução do DNS1" width="100%">
+  <img src="servers/dns1-nslookup-servidor1-e-2.png" alt="Teste de resolução do DNS1" width="100%">
 </p>
 
 ### Resolução pelo DNS2
