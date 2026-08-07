@@ -1,1 +1,13 @@
+$TTL 604800
 
+@   IN  SOA dns2.rede.local. root.rede.local. (
+        2024010101
+        604800
+        86400
+        2419200
+        604800
+)
+
+@           IN  NS  dns2.rede.local.
+dns2        IN  A   192.168.4.5
+servidor3   IN  A   192.168.3.10
