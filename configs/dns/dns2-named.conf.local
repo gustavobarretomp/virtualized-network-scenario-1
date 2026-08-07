@@ -1,1 +1,4 @@
-
+zone "rede.local" {
+    type master;
+    file "/etc/bind/zones/db.rede.local";
+};
